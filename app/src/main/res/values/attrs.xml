@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyWaterWaveView">
+        <attr name="waveLegth" format="dimension"></attr> <!--波长-->
+        <attr name="rise" format="boolean"></attr> <!--是否涨水-->
+        <attr name="waveHeight" format="dimension"></attr> <!--波峰-->
+        <attr name="originY" format="dimension"></attr>
+        <attr name="diration" format="integer"></attr>
+        <attr name="waveView_boatBitmap" format="reference"></attr>
+    </declare-styleable>
+
+</resources>
